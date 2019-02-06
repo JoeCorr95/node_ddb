@@ -1,0 +1,19 @@
+{
+  "name": "node_ddb",
+  "version": "1.0.0",
+  "description": "node to jenkins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vitreous/node_ddb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vitreous/node_ddb/issues"
+  },
+  "homepage": "https://github.com/Vitreous/node_ddb#readme"
+}
